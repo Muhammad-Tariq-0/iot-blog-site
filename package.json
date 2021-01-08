@@ -1,0 +1,39 @@
+{
+  "name": "iot-blog-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "iot-blog-site made by Tariq",
+  "author": "Muhammad Tariq",
+  "keywords": [
+    "gatsby"
+  ],
+  "scripts": {
+    "develop": "gatsby develop",
+    "start": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "clean": "gatsby clean"
+  },
+  "license": "0BSD",
+  "dependencies": {
+    "@contentful/rich-text-react-renderer": "^14.1.2",
+    "@material-ui/core": "^4.11.2",
+    "@material-ui/styles": "^4.11.2",
+    "dotenv": "^8.2.0",
+    "gatsby": "^2.26.1",
+    "gatsby-plugin-material-ui": "^2.1.10",
+    "gatsby-source-contentful": "^4.3.1",
+    "mdi-material-ui": "^6.21.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "main": "gatsby-browser.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Muhammad-Tariq-0/blog-site.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Muhammad-Tariq-0/blog-site/issues"
+  },
+  "homepage": "https://github.com/Muhammad-Tariq-0/blog-site#readme"
+}

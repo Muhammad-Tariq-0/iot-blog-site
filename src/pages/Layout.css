@@ -1,0 +1,28 @@
+
+        .nav {
+            position: sticky;
+            top: 0;
+            background-color: white;
+            border-radius: 50px;
+            list-style: none;
+            overflow: auto;
+            max-width: 100%;
+            margin-top: -8px;
+            
+        }
+
+        .nav li {
+            padding: 10px;
+            float: left;
+            margin-top: 10px;
+            
+        }
+
+        img{
+           margin: auto;
+        }
+
+        .nav li:hover {
+            color: white;
+            cursor: pointer;
+        }
